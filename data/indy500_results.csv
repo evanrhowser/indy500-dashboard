@@ -1,0 +1,108 @@
+year,winner,car_number,team,avg_speed_mph,winning_time
+1911,Ray Harroun,32,Nordyke & Marmon,74.602,6:42:08
+1912,Joe Dawson,8,National Motor Vehicle Co.,78.719,6:21:06
+1913,Jules Goux,16,Peugeot,75.933,6:35:05
+1914,René Thomas,15,Delage,82.474,6:03:45
+1915,Ralph DePalma,1,Daimler-Mercedes,89.840,5:33:55
+1916,Dario Resta,18,Peugeot,84.001,3:34:17
+1919,Howdy Wilcox,4,Peugeot,88.050,5:40:42
+1920,Gaston Chevrolet,4,Monroe Motor Car,88.618,5:38:32
+1921,Tommy Milton,34,Frontenac Motor Corp.,89.621,5:34:44
+1922,Jimmy Murphy,35,Murphy Special,94.484,5:17:30
+1923,Tommy Milton,1,HCS Motor Car,90.954,5:29:50
+1924,Joe Boyer,21,Duesenberg,98.234,5:05:23
+1925,Peter DePaolo,2,Duesenberg,101.127,4:56:39
+1926,Frank Lockhart,15,Miller,95.904,4:10:14
+1927,George Souders,22,Duesenberg,97.545,5:07:33
+1928,Louis Meyer,14,Miller,99.482,5:01:33
+1929,Ray Keech,6,Simplex Piston Ring Special,97.585,5:07:25
+1930,Billy Arnold,4,Miller-Hartz Special,100.448,4:58:39
+1931,Louis Schneider,32,Bowes Seal Fast Special,96.629,5:10:27
+1932,Fred Frame,34,Miller-Hartz Special,104.144,4:48:03
+1933,Louis Meyer,36,Tydol Special,104.162,4:48:00
+1934,Bill Cummings,7,Boyle Products Special,104.863,4:46:05
+1935,Kelly Petillo,44,Gilmore Speedway Special,106.240,4:42:22
+1936,Louis Meyer,9,Ring Free Special,109.069,4:35:03
+1937,Wilbur Shaw,20,Shaw-Gilmore Special,113.580,4:24:07
+1938,Floyd Roberts,23,Burd Piston Ring Special,117.200,4:15:58
+1939,Wilbur Shaw,2,Boyle Maserati,115.035,4:20:47
+1940,Wilbur Shaw,1,Boyle Maserati,114.277,4:22:31
+1946,George Robson,16,Thorne Engineering Special,114.820,4:21:26
+1947,Mauri Rose,54,Blue Crown Spark Plug Special,116.338,4:17:52
+1948,Mauri Rose,3,Blue Crown Spark Plug Special,119.814,4:10:23
+1949,Bill Holland,16,Blue Crown Spark Plug Special,121.327,4:07:15
+1950,Johnnie Parsons,59,Wynn's Friction Proofing Special,124.002,2:46:56
+1951,Lee Wallard,99,Belanger Special,126.244,3:57:38
+1952,Troy Ruttman,98,Agajanian Special,128.922,3:52:41
+1953,Bill Vukovich,14,Fuel Injection Special,128.740,3:53:01
+1954,Bill Vukovich,14,Fuel Injection Special,130.840,3:49:17
+1955,Bob Sweikert,6,John Zink Special,128.213,3:53:59
+1956,Pat Flaherty,8,John Zink Special,128.490,3:53:28
+1957,Sam Hanks,1,Belond Exhaust Special,135.601,3:41:14
+1958,Jimmy Bryan,1,Belond AP Special,133.791,3:44:13
+1959,Rodger Ward,5,Leader Card 500 Roadster,135.857,3:40:49
+1960,Jim Rathmann,4,Ken-Paul Special,138.767,3:36:11
+1961,A.J. Foyt,1,Bowes Seal Fast Special,139.130,3:35:37
+1962,Rodger Ward,3,Leader Card 500 Roadster,140.293,3:33:50
+1963,Parnelli Jones,98,Agajanian-Willard Special,143.137,3:29:35
+1964,A.J. Foyt,1,Sheraton-Thompson Special,147.350,3:23:35
+1965,Jim Clark,82,Lotus Cars,150.686,3:19:05
+1966,Graham Hill,32,American Red Ball Special,144.317,3:27:52
+1967,A.J. Foyt,14,Sheraton-Thompson Special,151.207,3:18:24
+1968,Bobby Unser,3,Rislone Special,152.882,3:16:13
+1969,Mario Andretti,2,STP Oil Treatment Special,156.867,3:11:14
+1970,Al Unser,2,Johnny Lightning Special,155.749,3:12:37
+1971,Al Unser,1,Johnny Lightning Special,157.735,3:10:11
+1972,Mark Donohue,66,Sunoco McLaren,162.962,3:04:05
+1973,Gordon Johncock,20,STP Double Oil Filters Special,159.014,2:05:26
+1974,Johnny Rutherford,3,McLaren,158.589,3:09:10
+1975,Bobby Unser,48,Jorgensen Eagle,149.213,2:54:55
+1976,Johnny Rutherford,2,Hy-Gain McLaren,148.725,1:42:52
+1977,A.J. Foyt,14,Gilmore Racing Team,161.331,3:05:57
+1978,Al Unser,2,Chaparral,161.363,3:05:54
+1979,Rick Mears,9,Gould Charge,158.899,3:08:47
+1980,Johnny Rutherford,4,Pennzoil Chaparral,142.862,3:29:59
+1981,Bobby Unser,3,Norton Spirit Penske,139.084,3:35:41
+1982,Gordon Johncock,20,STP Oil Treatment,162.029,3:05:09
+1983,Tom Sneva,1,Texaco Star,162.117,3:05:03
+1984,Rick Mears,6,Pennzoil Z-7,163.612,3:03:21
+1985,Danny Sullivan,8,Miller American,152.982,3:16:06
+1986,Bobby Rahal,3,Budweiser/Truesports,170.722,2:55:43
+1987,Al Unser,25,Cummins Holset,162.175,3:04:59
+1988,Rick Mears,4,Pennzoil Z-7,144.809,3:27:10
+1989,Emerson Fittipaldi,20,Marlboro Penske,167.581,2:59:01
+1990,Arie Luyendyk,30,Domino's Pizza Lola,185.981,2:41:18
+1991,Rick Mears,3,Marlboro Penske,176.457,2:50:01
+1992,Al Unser Jr.,3,Valvoline Galmer,134.477,3:43:05
+1993,Emerson Fittipaldi,4,Marlboro Penske,157.207,3:10:49
+1994,Al Unser Jr.,31,Marlboro Penske,160.872,3:06:29
+1995,Jacques Villeneuve,27,Player's Ltd./Reynard,153.616,3:15:17
+1996,Buddy Lazier,91,Hemelgarn Racing,147.956,3:22:45
+1997,Arie Luyendyk,5,Sprint PCS,145.827,3:25:43
+1998,Eddie Cheever Jr.,51,Team Dallara,145.155,3:26:40
+1999,Kenny Bräck,14,A.J. Foyt Enterprises,153.176,3:15:51
+2000,Juan Pablo Montoya,7,Target Chip Ganassi,167.607,2:58:59
+2001,Hélio Castroneves,3,Marlboro Team Penske,153.601,3:15:18
+2002,Hélio Castroneves,3,Marlboro Team Penske,166.499,3:00:20
+2003,Gil de Ferran,6,Marlboro Team Penske,156.291,3:11:56
+2004,Buddy Rice,15,Rahal Letterman Racing,138.518,3:36:29
+2005,Dan Wheldon,26,Andretti Green Racing,157.603,3:10:21
+2006,Sam Hornish Jr.,6,Marlboro Team Penske,157.085,3:10:58
+2007,Dario Franchitti,27,Andretti Green Racing,151.774,3:17:05
+2008,Scott Dixon,9,Target Chip Ganassi,143.567,3:28:58
+2009,Hélio Castroneves,3,Marlboro Team Penske,150.318,3:19:47
+2010,Dario Franchitti,10,Target Chip Ganassi,161.623,3:05:35
+2011,Dan Wheldon,98,Bryan Herta Autosport,170.265,2:56:03
+2012,Dario Franchitti,10,Target Chip Ganassi,167.734,2:58:53
+2013,Tony Kanaan,11,KV Racing Technology,187.433,2:40:03
+2014,Ryan Hunter-Reay,28,Andretti Autosport,186.563,2:40:40
+2015,Juan Pablo Montoya,2,Team Penske,161.341,3:05:56
+2016,Alexander Rossi,98,Andretti Herta Autosport,166.634,3:00:02
+2017,Takuma Sato,26,Andretti Autosport,155.395,3:13:03
+2018,Will Power,12,Team Penske,166.935,2:59:46
+2019,Simon Pagenaud,22,Team Penske,175.794,2:50:39
+2020,Takuma Sato,30,Rahal Letterman Lanigan Racing,157.824,3:10:10
+2021,Hélio Castroneves,6,Meyer Shank Racing,190.690,2:37:19
+2022,Marcus Ericsson,8,Chip Ganassi Racing,175.305,2:51:08
+2023,Josef Newgarden,2,Team Penske,177.877,2:49:08
+2024,Josef Newgarden,2,Team Penske,180.828,2:45:46

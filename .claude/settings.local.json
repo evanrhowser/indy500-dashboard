@@ -1,0 +1,11 @@
+{
+  "permissions": {
+    "allow": [
+      "WebSearch",
+      "WebFetch(domain:en.wikipedia.org)",
+      "WebFetch(domain:www.indianapolismotorspeedway.com)",
+      "WebFetch(domain:www.openwheelworld.net)",
+      "WebFetch(domain:www.sportshistori.com)"
+    ]
+  }
+}
