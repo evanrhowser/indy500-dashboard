@@ -5,7 +5,9 @@
       "WebFetch(domain:en.wikipedia.org)",
       "WebFetch(domain:www.indianapolismotorspeedway.com)",
       "WebFetch(domain:www.openwheelworld.net)",
-      "WebFetch(domain:www.sportshistori.com)"
+      "WebFetch(domain:www.sportshistori.com)",
+      "WebFetch(domain:www.racing-reference.info)",
+      "WebFetch(domain:github.com)"
     ]
   }
 }
